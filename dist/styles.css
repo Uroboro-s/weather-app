@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+}
+main{
+    display: flex;
+}
+#daily-forecast{
+    display: flex;
+}
+.day-elements{
+    border: 2px solid black;
+}
